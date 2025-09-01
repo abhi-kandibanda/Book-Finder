@@ -56,3 +56,5 @@ npm run dev
 
 
 
+#👤 Author
+📧 kandibandaabhi2004@gmail.com
